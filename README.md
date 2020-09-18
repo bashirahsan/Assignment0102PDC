@@ -8,6 +8,6 @@ Think about how you would solve a real world consensus problem – perhaps tryin
 1. The first proposal phase involves proposing a value to every participant in the system and gathering responses.
 2. If everyone agrees, contact every participant again to let him or her know. Otherwise, contact every participant to abort the consensus.
 
-#Problem # 2
+# Problem # 2
 
 Master distributes the list and waits for anyone to signal successful search. Once a slave process finds the key, it stops execution, sends to master, it notifies other slaves to stop and the program terminates.
